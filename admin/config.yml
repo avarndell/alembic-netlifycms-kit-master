@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: avarndell/alembic-netlifycms-kit-master
   branch: master # Branch to update (master by default)
 
